@@ -9,7 +9,7 @@ Sign-up Form project created for [The Odin Project](https://www.theodinproject.c
 
 ## Live Demo 
 
-Check it out on [GitHub Webpages]()</br>
+Check it out on [GitHub Webpages](https://redwanhaitami.github.io/sign-up-form)</br>
 <br>
 
 ## Main Features
