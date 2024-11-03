@@ -16,8 +16,8 @@ Sign-up Form project was created for [The Odin Project](https://www.theodinproje
 
 ## Main Features
 
-- The form data input fields styled with advanced CSS properties as the focus and invalid pseudo-classes to indicate accuracy and integrity.
-- The form password input fields with the validation match pattern feature that requires JavaScript to be validated.
+- Form data input fields styled with advanced CSS properties as the focus and invalid pseudo-classes to indicate accuracy and integrity.
+- Form password input fields with the validation match pattern feature that requires JavaScript to be validated.
 - Media Queries for responsive design that seamlessly adjust to different screen sizes for both large desktops and mobile devices.
 
 ## Skills and Tools 
