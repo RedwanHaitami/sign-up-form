@@ -6,12 +6,12 @@
 
 ## Live Demo
 
-Check it out on [GitHub Webpages](https://redwanhaitami.github.io/sign-up-form)</br>
+Check it out [Here](https://redwanhaitami.github.io/sign-up-form)</br>
 <br>
 
 ## About The Project
 
-Sign-up Form project was created for [The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form) Intermediate HTML and CSS Course.</br>
+Sign-up Form project was created for [The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form) intermediate HTML and CSS Course.</br>
 </br>
 
 ## Main Features
